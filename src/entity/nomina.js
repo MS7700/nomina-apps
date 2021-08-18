@@ -13,7 +13,6 @@ import {
   SelectInput,
   DateField,
   DateInput,
-  ShowButton,
   TextInput,
   Show,
   SimpleShowLayout,

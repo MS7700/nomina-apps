@@ -13,8 +13,6 @@ import {
   Show,
   NumberInput,
   BooleanInput,
-  DeleteButton,
-  ShowButton,
 } from "react-admin";
 
 import { makeStyles } from "@material-ui/core/styles";
