@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3a34920b-cd4a-4bbe-b488-25c45cd986d6/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/nomina-apps",
+    "appService.deploySubpath": "."
+}
